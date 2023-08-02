@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.c5f67b5bbc2d0add659cc2ff27b924d4.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.88f8954053177709f34957e8d7492e9a.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.cfcfdc616e1a0959c64af18162a73846.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.43d5d92dca2db2d538efc512e20a4a52.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.4341b811b4548dbe5439999b43854dc2.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Despertamente Brinquedos",
+  "short_name": "despertamentebrinquedos",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "despertamentebrinquedos",
+  "background_color": "#ffffff",
+  "theme_color": "#e19c87"
+}
